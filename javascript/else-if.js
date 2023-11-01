@@ -25,11 +25,11 @@
 // pernyataan akan menampilkan berdasarkan besar variabel x yang emndekatinya
 var x = 11
 
-if(x >20 )
-console.log("X lebih besar dari 20")
-else if( x>10)
-console.log("x lebih besar dari 10")
-else if(x >25)
-console.log("x lebih dari 25")
+if (x > 20)
+    console.log("X lebih besar dari 20")
+else if (x > 10)
+    console.log("x lebih besar dari 10")
+else if (x > 25)
+    console.log("x lebih dari 25")
 else
-console.log("x adalah 10")
+    console.log("x adalah 10")
